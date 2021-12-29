@@ -72,6 +72,8 @@ body{
     margin-left: 20px;
     position: relative;
     top: 200px;
+    height: 220px;
+    width: 220px;
 }
 p{
     text-transform: uppercase;
